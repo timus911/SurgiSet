@@ -1,0 +1,52 @@
+[
+  {
+    "id": "W&W_19_1",
+    "name": "Curettes",
+    "category": "Curette",
+    "image": "Wilson & W. Wilson Catalagoue_p19_img1.png",
+    "source": {
+      "catalogue": "Wilson & W. Wilson Catalagoue",
+      "page": 19
+    }
+  },
+  {
+    "id": "W&W_19_2",
+    "name": "Meyhoeffer Curette",
+    "category": "Curette",
+    "image": "Wilson & W. Wilson Catalagoue_p19_img2.png",
+    "source": {
+      "catalogue": "Wilson & W. Wilson Catalagoue",
+      "page": 19
+    }
+  },
+  {
+    "id": "W&W_19_4",
+    "name": "Fox Dermal Curette",
+    "category": "Curette",
+    "image": "Wilson & W. Wilson Catalagoue_p19_img4.png",
+    "source": {
+      "catalogue": "Wilson & W. Wilson Catalagoue",
+      "page": 19
+    }
+  },
+  {
+    "id": "W&W_24_3",
+    "name": "McInnis Polycurette Breast Instrument",
+    "category": "Curette",
+    "image": "Wilson & W. Wilson Catalagoue_p24_img3.png",
+    "source": {
+      "catalogue": "Wilson & W. Wilson Catalagoue",
+      "page": 24
+    }
+  },
+  {
+    "id": "W&W_24_4",
+    "name": "McInnis Polycurette Breast Instrument",
+    "category": "Curette",
+    "image": "Wilson & W. Wilson Catalagoue_p24_img4.png",
+    "source": {
+      "catalogue": "Wilson & W. Wilson Catalagoue",
+      "page": 24
+    }
+  }
+]
